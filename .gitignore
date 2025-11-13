@@ -1,0 +1,8 @@
+selenium
+selenium-screenshot*
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.pytest_cache/
